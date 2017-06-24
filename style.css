@@ -1,0 +1,40 @@
+*{
+font-family: Arial, Verdana, sans-serif; color: #665544;
+text-align: left;}
+#nav, #feature, .article, #footer {
+  background-color: #efefef;
+  margin-top: 20px;
+  padding: 10px 0px 5px 0px;}
+#feature, .article {
+  height: 100px;}
+li {
+  display: inline;
+  padding: 0px;}
+
+#nav {
+
+}
+
+#mid p {
+  font-size: 30px;
+  font-weight: bold;
+  color: black;
+  text-align: left;
+}
+
+#image {
+  image-orientation: stretch;
+  border: 100px 100px 100px 100px;
+  text-align: center;
+}
+
+#story {
+  text-indent: 50px;
+  padding: 0px 250px 0px 250px;
+}
+
+.beneath-story {
+  background-image: url(img/list-bg.png);
+  width: 80%;
+  height: 20%;
+}
